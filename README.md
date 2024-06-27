@@ -3,7 +3,7 @@ This is a game console powered by a Raspberry Pi Pico,with features like a dynam
 
 
 ## Credits
-The idea came from the PicoGameBoy and the PicoBoy projects also on 
+The idea came from the [PicoGameBoy](https://github.com/YouMakeTech/Pi-Pico-Game-Boy) and the [PicoBoy](https://github.com/HalloSpaceBoy5/PicoBoy) projects also on 
 GitHub.
 
 ### Happy Gaming!
