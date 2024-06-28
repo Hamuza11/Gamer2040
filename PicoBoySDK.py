@@ -1,5 +1,6 @@
 # Original Software Development Kit by HalloSpaceBoy
 # Code used from MikeDev and Vincient Mistler
+# Ported to Gamer2040 by Hamuza
 from machine import Pin, PWM, SPI, reset, ADC
 import framebuf
 from framebuf import FrameBuffer, RGB565
