@@ -1,5 +1,6 @@
 # Original source files for PicoGameBoy.py by Vincent Mistler for YouMakeTech
 # Modified By HalloSpaceBoy for the PicoBoy
+# Modified by Hamuza for Gamer2040
 from machine import Pin, PWM, ADC
 from framebuf import FrameBuffer, RGB565
 from time import sleep
